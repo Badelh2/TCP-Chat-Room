@@ -3,7 +3,7 @@ TCP Server and Chat Room
 This is a simple TCP server and chat room application implemented in Python. It allows multiple clients to connect to the server and send messages to each other.
 Prerequisites
 
-    Python 3.6 or higher
+    Python 3.9 or higher
     The socket and threading modules
 
 Running the Server
